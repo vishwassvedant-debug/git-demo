@@ -1,2 +1,2 @@
-print('i love my INDIA')
+print('i love python')
 print('added line')
